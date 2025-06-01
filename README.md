@@ -26,7 +26,7 @@ LogosTrinity/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/LogosTrinity.git
+   git clone https://github.com/yvgnysblv/LogosTrinity.git
    cd LogosTrinity
 2.Install dependencies:
    pip install -r requirements.txt
